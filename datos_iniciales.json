@@ -1,0 +1,18 @@
+{
+    "proyectos": [
+        {
+            "nombre": "Sistema de Gestion",
+            "descripcion": "Desarrollo de sistema para gestión de proyectos",
+            "fecha_inicio": "2023-01-10",
+            "fecha_fin": "2023-06-30",
+            "estado": "En progreso"
+        },
+        {
+            "nombre": "Portal Web",
+            "descripcion": "Desarrollo de portal corporativo",
+            "fecha_inicio": "2023-02-15",
+            "fecha_fin": "2023-05-20",
+            "estado": "Completado"
+        }
+    ]
+}
